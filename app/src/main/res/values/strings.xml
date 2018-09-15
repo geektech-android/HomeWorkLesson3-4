@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+
+    <string name="my_name">Тулеубеков Кудайберген Серикович</string>
+    <string name="contacts">0702–398–905</string>
+    <string name="email">tuleubekov.kas@gmail.com</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">Редактировать</string>
+</resources>

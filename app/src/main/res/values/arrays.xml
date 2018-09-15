@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="skills">
+        <item>Java SE</item>
+        <item>Java EE</item>
+        <item>Android</item>
+        <item>Spring …</item>
+        <item>Hibernate</item>
+        <item>PostgreSql</item>
+        <item>SQLite</item>
+        <item>Rest</item>
+        <item>GraphQl</item>
+        <item>Gradle</item>
+        <item>Maven</item>
+    </string-array>
+</resources>

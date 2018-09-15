@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_bottom_name">30dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="padding_parent">16dp</dimen>
+    <dimen name="size_name">20sp</dimen>
+    <dimen name="size_contacts">17sp</dimen>
+    <dimen name="size_skill">18sp</dimen>
+</resources>
